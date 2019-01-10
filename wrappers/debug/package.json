@@ -32,7 +32,7 @@
     "debug": "^4.0.0",
     "logtown": "^2.4.5",
     "rollup": "^1.0.0",
-    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-babel": "^4.3.0",
     "std-mocks": "^1.0.1",
     "tape": "^4.9.1"
   },
