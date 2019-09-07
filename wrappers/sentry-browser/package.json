@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/logtown/logtown/tree/master/wrappers/sentry-browser#readme",
   "devDependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.6.0",
     "@babel/plugin-external-helpers": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "logtown": "^2.4.5",
