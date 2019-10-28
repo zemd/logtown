@@ -30,7 +30,7 @@
     "passthrough-counter": "^1.0.0"
   },
   "peerDependencies": {
-    "koa": "*",
+    "koa": ">=2.11.0",
     "logtown": "*"
   },
   "publishConfig": {
