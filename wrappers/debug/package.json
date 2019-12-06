@@ -28,7 +28,7 @@
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/plugin-external-helpers": "^7.7.4",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-env": "^7.7.5",
     "debug": "^4.0.0",
     "logtown": "^2.4.5",
     "rollup": "^1.0.0",
